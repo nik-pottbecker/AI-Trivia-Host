@@ -1,0 +1,7 @@
+{
+  "name": "AI Trivia Host",
+  "description": "A fun trivia game featuring an AI host with a dynamic, user-chosen personality. The AI generates up-to-date questions using Google Search, speaks them aloud using TTS, and listens to your answers for a fully conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
